@@ -29,3 +29,7 @@ Now install `djangorestframework` from Python using the following command:
 Install `djoser` for flask authentication.
 
     $ pip3 install djoser
+    
+The next command should handle the previous commands and install other dependencies.
+
+    $ pip3 install -r requirements.txt
